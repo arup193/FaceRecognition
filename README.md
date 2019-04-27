@@ -1,2 +1,2 @@
-# FaceDetection
-Face Detection application using MATLAB
+# FaceRecognition
+Face Recognition application using MATLAB
